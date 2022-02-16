@@ -1,5 +1,4 @@
 ### Hi there 👋
-<a><img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=page.id" /></a>
 
 I'm Weiyuan <a href="https://keybase.io/dovahcrow">
   <img alt="Keybase" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" />
@@ -15,7 +14,7 @@ Languages and tools:
 * Proficient in Python (4+ years) as well as data science tools (numpy, scikit-learn, scipy, dask)
 * DevOps: Terraform / Docker / K8S / AWS 
 * Database: Postgres
-* Smart Contract: Solana (15k lines of code)
+* Smart Contract: Solana (25k lines of code)
 
 ![](https://github-readme-stats.vercel.app/api?username=dovahcrow&show_icons=true&theme=radical)
 
